@@ -10,6 +10,6 @@
 
 ## Tecnologias
 
-- HTLM
+- HTML
 - CSS
 - Git e GitHub
